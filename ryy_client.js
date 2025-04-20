@@ -1,4 +1,4 @@
-"key": "buyer_HL",
+"secretCode": "buyer_HL",
   "description": "Hard Security", 
   "lastUpdated": "20-04-2025",
   "author": "Conquer", 
