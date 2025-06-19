@@ -236,151 +236,127 @@
     "numbers": "6287849333329"
   },
   {
-    "nama": "User",
+    "name": "User",
     "numbers": "6281385194086"
   },
   {
-    "nama": "User",
+    "name": "User",
     "numbers": "6282325339495"
   },
   {
-    "nama": "User",
+    "name": "User",
     "numbers": "6282118677429"
   },
   {
-    "nama": "User",
+    "name": "User",
     "numbers": "6283896254706"
   },
   {
-    "nama": "cahya",
+    "name": "cahya",
     "numbers": "66923801378"
   },
   {
-    "nama": "User",
+    "name": "User",
     "numbers": "6287788666689"
   },
   {
-    "nama": "User",
+    "name": "User",
     "numbers": "221781107100"
   },
   {
-    "nama": "adhit",
+    "name": "adhit",
     "numbers": "6287876124607"
   },
   {
-    "nama": "User",
+    "name": "User",
     "numbers": "6282178203525"
   },
   {
-    "nama": "nathan",
+    "name": "nathan",
     "numbers": "62895334856140"
   },
   {
-    "name": "sunda jb", 
+    "name": "sunda jb",
     "numbers": "6289649971916"
   },
   {
-  "name": "buyer"
-  "numbers": "6285754384450"
+    "name": "buyer",
+    "numbers": "6285754384450"
   },
-{
-  "name": "buyer",
-  "numbers": "6282117086152"
-},
-{
-  "name": "buyer",
-  "numbers": "6282325339495"
-},
-{
-  "name": "buyer",
-  "numbers": "6282118677429"
-},
-{
-  "name": "buyer",
-  "numbers": "6285137924486"
-},
-{
-  "name": "buyer",
-  "numbers": "62895323036247"
-},
-{
-  "name": "buyer",
-  "numbers": "6285795627425"
-},
-{
-  "name": "buyer",
-  "numbers": "6282329722090"
-},
-{
-  "name": "buyer",
-  "numbers": "6285822205890"
-},
-{
-  "name": "buyer",
-  "numbers": "6289512658741"
-},
-{
-  "name": "buyer",
-  "numbers": "6285656438377"
-},
-{
-  "name": "buyer",
-  "numbers": "6281937841378"
-},
-{
-  "name": "buyer",
-  "numbers": "6288246858264"
-},
-{
-  "name": "buyer",
-  "numbers": "60176320163"
-},
-{
-  "name": "buyer",
-  "numbers": "6283198247917"
-},
-{
-  "name": "buyer",
-  "numbers": "6285166578671"
-},
-{
-  "name": "buyer",
-  "numbers": "6285802804461"
-},
-{
-  "name": "buyer",
-  "numbers": "6285210720698"
-},
-{
-  "name": "buyer",
-  "numbers": "6285319156622"
-},
-{
-  "name": "buyer",
-  "numbers": "6285129910600"
-},
-{
-  "name": "buyer",
-  "numbers": "62895396352017"
-},
-{
-  "name": "buyer",
-  "numbers": "6283181393520"
-},
-{
-  "name": "buyer",
-  "numbers": "6282372180221"
-},
-{
-  "name": "buyer",
-  "numbers": "6283165696501"
-},
-{
-  "name": "buyer",
-  "numbers": "6281315655330"
-},
-{
-  "name": "buyer",
-  "numbers": "62895375031284"
-}
+  {
+    "name": "buyer",
+    "numbers": "6282117086152"
+  },
+  {
+    "name": "buyer",
+    "numbers": "6282325339495"
+  },
+  {
+    "name": "buyer",
+    "numbers": "6282118677429"
+  },
+  {
+    "name": "buyer",
+    "numbers": "6285137924486"
+  },
+  {
+    "name": "buyer",
+    "numbers": "62895323036247"
+  },
+  {
+    "name": "buyer",
+    "numbers": "6285795627425"
+  },
+  {
+    "name": "buyer",
+    "numbers": "6282329722090"
+  },
+  {
+    "name": "buyer",
+    "numbers": "6285822205890"
+  },
+  {
+    "name": "buyer",
+    "numbers": "6289512658741"
+  },
+  {
+    "name": "buyer",
+    "numbers": "6285656438377"
+  },
+  {
+    "name": "buyer",
+    "numbers": "6281937841378"
+  },
+  {
+    "name": "buyer",
+    "numbers": "6288246858264"
+  },
+  {
+    "name": "buyer",
+    "numbers": "60176320163"
+  },
+  {
+    "name": "buyer",
+    "numbers": "6283198247917"
+  },
+  {
+    "name": "buyer",
+    "numbers": "6285166578671"
+  },
+  {
+    "name": "buyer",
+    "numbers": "6285802804461"
+  },
+  {
+    "name": "buyer",
+    "numbers": "6285210720698"
+  },
+  {
+    "name": "buyer",
+    "numbers": "6285319156622"
+  },
+  {
+    "name": "buyer",
+    "numbers": "6285129910600"
+  }
 ]
